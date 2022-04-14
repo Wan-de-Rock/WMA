@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-[T]utorials/
+Tutorials/
 
 # C extensions
 *.so
